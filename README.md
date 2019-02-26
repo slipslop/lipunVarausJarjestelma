@@ -23,3 +23,9 @@ TODO:
 
 ____________________________________________________________________________________________________
 
+Things I learned:
+
+-Java OOP
+-Java and SQL co-op
+-SQL queries
+-Problem solving
